@@ -14,7 +14,7 @@ https://developer.ibm.com/jp/callforcode/
 ■ **Call for Code参加申込の日本語解説スライド**
 https://speakerdeck.com/taijihagino/call-for-codehecan-jia-surutamefalseshou-shun
 
-# **1. Call for Code 紹介スライド**
+# **1. Call for Code 紹介資料**
 日本語の「Call for Codeとは」「Call for Code Challenge 2018」「参考URL」を解説している資料です。pdf形式ファイルです。
 
 Have a nice Call for Code Hack day！
