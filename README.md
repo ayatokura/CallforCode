@@ -17,15 +17,15 @@ https://developer.ibm.com/jp/callforcode/
 2018年8月31日(金)に開催された「Call for Code Day in Tokyo」イベントのワークショップ資料です。pdf形式ファイルです。
 
 # **リンク集**
-■ Call for Code へ参加登録する手順をゼロから解説
+■ Call for Code へ参加登録する手順をゼロから解説  
 https://qiita.com/ayatokura/items/b759b69b257a15356378
 
-■ Call for CodeでThe Weather Company APIを試してみよう (開発編)
+■ Call for CodeでThe Weather Company APIを試してみよう (開発編)  
 https://qiita.com/ayatokura/items/39fcdf140dc6567505bb
 
-■ Call for Code 自然災害アプリ開発時や情報収集に役立つサイトやコミュニティ
+■ Call for Code 自然災害アプリ開発時や情報収集に役立つサイトやコミュニティ  
 https://qiita.com/ayatokura/items/e6e6f3fcb37adc3d373f
 
-Have a nice Call for Code Hack day！
+Have a nice Call for Code Hack day！  
 ★Twitterで最新情報配信中 **[@ayatokura]**(https://twitter.com/ayatokura)
 
